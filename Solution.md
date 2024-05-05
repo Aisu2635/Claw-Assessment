@@ -166,7 +166,7 @@ _Step 5_ : VM configuratrion.
 
 ## Problems Faced.
 > The major Problem I faced was for VMs. I am using my own Azure Student account which only allows 4 vCPUs in single region. As I already had my personal Cloud Hosted Kali VM 2 out of 4 vCPUs were occupied so I had to Shift Machines to different region  
-> No project Data, Since no data was given about the frontend,backend application I couldnt Decide the appropriate OS,Appropriate Disk & Appropriate Machine to host the VM
+> No project Data, Since no data was given about the frontend,backend application I couldnt Decide the appropriate OS,Appropriate Disk & Appropriate Machine to host the VM  
 > AWS VPC vs Azure V-Net: I have experience of AWS VPC configuration and I found AWS more easier and manageable than Azure.
 
 
